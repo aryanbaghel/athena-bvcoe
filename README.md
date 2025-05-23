@@ -29,12 +29,13 @@ ATHENA's online presence is designed to reflect our energy and innovation. The *
 | Tailwind CSS  | Utility-first CSS for rapid styling      |
 | shadcn/ui     | Accessible and customizable UI components|
 | PostCSS       | Modern CSS transformations               |
+| EmailJs       | For Backend to get Applications          |
 
 ---
 
 ## ⚙️ Local Development Setup
 
-> Ensure **Node.js ≥ 18** and **npm** are installed.
+> Ensure **Vscode** and **npm** are installed.
 
 ```sh
 # 1. Clone the repository
