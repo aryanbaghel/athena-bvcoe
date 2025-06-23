@@ -118,3 +118,7 @@ Regular dependency updates are performed to prevent vulnerabilities.
 🛡️ Security Compliance and accessibility-focused
 
 🚀 Continuous Deployment on Netlify
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
