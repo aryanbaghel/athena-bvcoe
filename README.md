@@ -119,6 +119,8 @@ Regular dependency updates are performed to prevent vulnerabilities.
 
 🚀 Continuous Deployment on Netlify
 
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
